@@ -1,0 +1,7 @@
+{
+  "name": "Falcon Café Barista",
+  "description": "A voice-enabled AI Barista for Falcon Café that takes coffee orders in real-time.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
